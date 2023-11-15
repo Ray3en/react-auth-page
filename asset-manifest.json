@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/ray3en.github.io/react-auth-page/static/css/main.e652c7cb.css",
-    "main.js": "/ray3en.github.io/react-auth-page/static/js/main.a577c3bd.js",
-    "static/media/xmark-solid.svg": "/ray3en.github.io/react-auth-page/static/media/xmark-solid.aedc558fbe70d2bc99a6475b6f04a2ec.svg",
-    "index.html": "/ray3en.github.io/react-auth-page/index.html",
-    "main.e652c7cb.css.map": "/ray3en.github.io/react-auth-page/static/css/main.e652c7cb.css.map",
-    "main.a577c3bd.js.map": "/ray3en.github.io/react-auth-page/static/js/main.a577c3bd.js.map"
+    "main.css": "/react-auth-page/static/css/main.e652c7cb.css",
+    "main.js": "/react-auth-page/static/js/main.c4e5b894.js",
+    "static/media/xmark-solid.svg": "/react-auth-page/static/media/xmark-solid.aedc558fbe70d2bc99a6475b6f04a2ec.svg",
+    "index.html": "/react-auth-page/index.html",
+    "main.e652c7cb.css.map": "/react-auth-page/static/css/main.e652c7cb.css.map",
+    "main.c4e5b894.js.map": "/react-auth-page/static/js/main.c4e5b894.js.map"
   },
   "entrypoints": [
     "static/css/main.e652c7cb.css",
-    "static/js/main.a577c3bd.js"
+    "static/js/main.c4e5b894.js"
   ]
 }
